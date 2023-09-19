@@ -1,4 +1,11 @@
 
+/*
+This is a project for my Y11 CS course. It uses methods to perform basic calculations and form basic sentences.
+Name: Lab 2.1
+Author: Emily M
+Date: 2023-09-19
+*/
+
 public class Main {
     // 1. add
     public static int add(int a, int b) {
